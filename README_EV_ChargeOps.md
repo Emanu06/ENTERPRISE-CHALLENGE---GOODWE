@@ -1,10 +1,14 @@
 # EV ChargeOps – Plataforma Inteligente de Gestão e Rateio de Recarga Compartilhada
 
 ## Integrantes
-- Nome: ____________________
-- RM: ____________________
-- Nome: ____________________
-- RM: ____________________
+- Nome: Emanuel Batista Braga Domingues
+- RM: 569732
+- Nome: 
+- RM: 
+- Nome: João Pedro Hornos
+- RM: 572004
+- Nome: Leonardo Tims Carneiro Campel
+- RM: 571048
 
 ---
 
